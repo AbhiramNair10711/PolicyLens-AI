@@ -64,7 +64,7 @@ On macOS, double-click `PolicyLens.command` instead (you may need to run `chmod 
 ### Windows PowerShell
 
 ``` powershell
-git clone https://github.com/YOUR_USERNAME/PolicyLens-AI.git
+git clone https://github.com/AbhiramNair10711/PolicyLens-AI.git
 cd PolicyLens-AI
 
 python -m venv .venv
@@ -75,10 +75,6 @@ pip install -r requirements.txt -r requirements-ml.txt
 
 streamlit run app/streamlit_app.py
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username. If PowerShell blocks
-virtual-environment activation, you can run the project's Python
-directly or follow Microsoft's PowerShell execution-policy guidance.
 
 `requirements-ml.txt` (torch, transformers, safetensors) is needed for the BGE classifier. Without
 it the app still runs, using its TF-IDF or keyword fallback for clause tags.
