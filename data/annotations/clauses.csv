@@ -1,0 +1,10 @@
+text,label,policy_id,page,reviewed
+Waiting periods for pre-existing diseases are subject to the terms and duration specified in the policy.,waiting_period,ILLUSTRATIVE_NOT_REAL_POLICY,1,no
+"Expenses for treatments listed under the exclusions section are not payable under this policy, subject to stated exceptions.",exclusion,ILLUSTRATIVE_NOT_REAL_POLICY,2,no
+The policy provides coverage for eligible hospitalisation expenses subject to policy terms and limits.,coverage,ILLUSTRATIVE_NOT_REAL_POLICY,3,no
+The insured must notify the insurer within the period specified in the claims section.,claims,ILLUSTRATIVE_NOT_REAL_POLICY,4,no
+Room rent is limited to the amount or category stated in the policy schedule.,limit,ILLUSTRATIVE_NOT_REAL_POLICY,5,no
+The premium payable is stated in the policy schedule and may be subject to applicable taxes.,premium,ILLUSTRATIVE_NOT_REAL_POLICY,6,no
+Renewal and cancellation are governed by the conditions specified in the policy wording.,renewal,ILLUSTRATIVE_NOT_REAL_POLICY,7,no
+A definition section explains the meaning of terms used throughout the policy.,definition,ILLUSTRATIVE_NOT_REAL_POLICY,8,no
+The policy does not provide enough information in this excerpt to determine eligibility.,other,ILLUSTRATIVE_NOT_REAL_POLICY,9,no

@@ -1,0 +1,11 @@
+{
+  "claims": 0,
+  "coverage": 1,
+  "definition": 2,
+  "exclusion": 3,
+  "limit": 4,
+  "other": 5,
+  "premium": 6,
+  "renewal": 7,
+  "waiting_period": 8
+}

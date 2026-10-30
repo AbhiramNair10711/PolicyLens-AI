@@ -1,0 +1,4 @@
+# Only for the old DistilBERT scripts in legacy/ (not used by the app)
+-r ../requirements-ml.txt
+datasets>=2.19
+accelerate>=0.30

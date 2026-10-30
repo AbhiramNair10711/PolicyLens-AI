@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+data/raw/
+data/processed/
+uploads/
+cache/
+vector_store/
+*.pdf
+*.log
+
+# Model files: keep the selected BGE checkpoint (weights tracked with Git LFS, see .gitattributes)
+models/*
+!models/.gitkeep
+!models/clause-classifier/
+
+# BGE model weights - keep locally, don't push to GitHub
+models/clause-classifier/model.safetensors
+
+data/eval/test_set_labeled.csv

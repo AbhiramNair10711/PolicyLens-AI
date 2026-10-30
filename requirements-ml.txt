@@ -1,0 +1,4 @@
+# Needed to run the fine-tuned BGE clause classifier (models/clause-classifier/)
+torch>=2.2
+transformers>=4.56
+safetensors>=0.4
